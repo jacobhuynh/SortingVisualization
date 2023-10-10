@@ -1,0 +1,7 @@
+This project creates a visual for several sorting algorithms.
+
+Before running, make sure you have the following packages:
+matplotlib -> pip install matplotlib
+numpy -> pip install numpy
+
+To run, run the sortingVisualizaiton.py file and select which sort you would like to see in the temrinal.
